@@ -53,7 +53,7 @@
     <input
       type="text"
       bind:value={searchTerm}
-      placeholder="Search by title"
+      placeholder="Title, abstract, or fulltext"
       on:input={handleSearchInput}
     />
     <table>
