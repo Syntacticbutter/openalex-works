@@ -37,7 +37,7 @@
 
   async function prevPage() {
     page -= 1;
-    await fetchData(); // Fetch data for the next page
+    await fetchData(); // Fetch data for the previous page
   }
 
   function handleSearchInput(event) {
