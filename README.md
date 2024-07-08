@@ -1,7 +1,7 @@
 # Start
 
 ```js
-git-clone https://github.com/Syntacticbutter/openalex-works.git
+git clone https://github.com/Syntacticbutter/openalex-works.git
 ```
 
 ## Pages
